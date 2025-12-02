@@ -50,10 +50,9 @@
 
 ---
 
-## ⚙️ 실행 방법
+## ⚙️ 실행 주의 사항
 
-> http://43.200.163.19:8080/EmotionDiary/
-> 위 링크 접속 시 실행 가능
+> pip install matplotlib 필수
 
 ---
 
