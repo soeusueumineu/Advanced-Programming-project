@@ -52,7 +52,7 @@
 
 ## ⚙️ 실행 주의 사항
 
-> pip install matplotlib 필수
+- pip install matplotlib 필수
 
 ---
 
